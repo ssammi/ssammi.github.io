@@ -41,6 +41,7 @@
         }
       }
     };
+    
 
     WeakMap.prototype.set = function(key, value) {
       var i, item, _i, _len, _ref;
