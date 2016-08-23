@@ -16,7 +16,7 @@
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
 <link href="css/responsive.css" rel="stylesheet" type="text/css">
 <link href="css/animate.css" rel="stylesheet" type="text/css">
-
+<link href="css/heart.css" rel="stylesheet" type="text/css">
 <!--[if IE]><style type="text/css">.pie {behavior:url(PIE.htc);}</style><![endif]-->
 
 <script type="text/javascript" src="js/jquery.1.8.3.min.js"></script>
@@ -48,6 +48,7 @@
         	<li>CS is my life</li>
             <li style="display:block">哦，是 Counter Strike</li>
             <li style="display:block">白银的技术，大地球的心</li>
+            <div class="heart-shape" id="heart" ></div>   
         </ul>
             <!-- <li><a class="link animated fadeInUp delay-1s">Get Started</a></li> -->
             <div class="cube">
@@ -57,7 +58,8 @@
                             <div class="flop">
                                 <a href="#"><img src="img/csgoge.png" alt="" style="padding-top: 10px"></a>
                             </div>
-            </div>      
+            </div>
+               
     </div>
 
 </div>
@@ -161,7 +163,7 @@
                     <p>万物皆可萌</p>
                 </div>
                 <div class=" Portfolio-box branding">
-                    <a href="#"><img src="img/SpongeBob.png" alt=""></a>    
+                    <a href="#"><img src="img/spongebob.jpg" alt=""></a>    
                     <h3>海绵宝宝</h3>
                     <p>哈哈 尴尬 =.＝||</p>
                 </div>
@@ -280,7 +282,7 @@ we were well fed and drunk all the time!</p>
 
  <section id="project">
   
-  <a href="#" class="myButton" style="position:relative; top:50%; left:50%;">Github</a>
+  <a href="#" class="myButton" style="position:relative; top:50%; left:50%;" onclick="fooled()">Github</a>
  <!--  <p style="margin-top:20px; margin-left:400px">要是能画出来就好了 T.T</p> -->
 
   
@@ -426,6 +428,35 @@ we were well fed and drunk all the time!</p>
     wow.init();
  
   </script>
+<!-- heart rotate -->
+  <script>
+var heart = document.getElementById( 'heart' ),
+    worldXAngle = 0,
+    worldYAngle = 0,
+    d = 0;
+
+/*
+    Event listener to transform mouse position into angles 
+    from -180 to 180 degress, both vertically and horizontally
+*/
+window.addEventListener( 'mousemove', function( e ) {
+    worldYAngle = -( .5 - ( e.clientX / window.innerWidth ) ) * 360;
+    worldXAngle = ( .5 - ( e.clientY / window.innerHeight ) ) * 360;
+    updateView();
+} );
+
+/*
+    Changes the transform property of world to be
+    translated in the Z axis by d pixels,
+    rotated in the X axis by worldXAngle degrees and
+    rotated in the Y axis by worldYAngle degrees.
+*/
+function updateView() {
+    heart.style.transform = 'translateZ( ' + d + 'px ) \
+        rotateX( ' + worldXAngle + 'deg) \
+        rotateY( ' + worldYAngle + 'deg)';
+}
+</script>
 
 
 <script type="text/javascript">
@@ -492,6 +523,10 @@ $(window).load(function(){
     });
   
 });
+
+function fooled(){
+    alert("哈哈 你还真以为可以点吗");
+}
 
 </script>
 </body>
