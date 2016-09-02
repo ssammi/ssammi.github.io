@@ -199,7 +199,7 @@
 
   </video>
 </section>
-
+<h1 style="text-align: center">Just some basic stuff</h1>
 <div class="container" ng-app="">
     <div ng-controller="cartController" class="container">
         <table class="table" ng-show="cart.length">
@@ -238,7 +238,7 @@
                 <td>
                     Total Price
                 </td>
-                <td>
+                <td style="font-weight: bold">
                     {{totalPrice()}}
                 </td>
                 <td>
@@ -247,8 +247,10 @@
                 <td>
                     {{totalQuantity()}}
                 </td>
+                <td></td>
+                <td></td>
                 <td colspan="2">
-                    <button type="button" ng-click="cart = {}" class="btn btn-danger">Clear Cart</button>
+                    <button type="button" ng-click="cart = {}" class="btn btn-danger">ClearCart</button>
                 </td>
             </tr>
             </tbody>
