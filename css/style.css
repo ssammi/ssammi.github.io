@@ -257,6 +257,7 @@ color: #fff;
     padding-top: 20px;
     margin: 0 auto;
     height: 100px;
+    
 
     -webkit-transition: -webkit-transform .33s;
     transition: transform .33s; /* Animate the transform properties */
