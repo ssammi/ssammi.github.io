@@ -2,9 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6c61fb-3925-4182-aa5f-8d2bf073d01d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ShowAngular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/300lo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/312.bdde2798e99662fe3447.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/367.70920535a993f811631c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/ace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/addthis_widget.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/analytics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/boost" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bw-loader-411.4.5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bw-send-411.4.5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/font-awesome.min(1).css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.confirm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.countdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.easy-pie-chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.html5storage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/layers.12ddbd8b0f3bc3f40310.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/menu.1d0464078c391d128d82.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/mode-java.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/mystyle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/plugin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/problem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/saved_resource" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/saved_resource(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/saved_resource(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/search3.0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/select2.full.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/select2.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/sh.70a42bd59f68e6caa20cf9f5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/share" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/shares.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/simplemde.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/simplemde.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/submissions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/theme-xcode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/client-pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/small-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-leader-pic1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-leader-pic2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-leader-pic3.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3dCloud.html" afterPath="$PROJECT_DIR$/3dCloud.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ssammi.github.io.iws" />
@@ -31,9 +83,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="194" column="66" selection-start-line="194" selection-start-column="66" selection-end-line="194" selection-end-column="66" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +96,8 @@
       <file leaf-file-name="ShowAngular.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-989">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="235">
+              <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -67,9 +122,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="x" value="453" />
+    <option name="y" value="29" />
+    <option name="width" value="1008" />
+    <option name="height" value="767" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -185,15 +241,15 @@
       <updated>1472251810357</updated>
       <workItem from="1472251811978" duration="370000" />
       <workItem from="1472431180773" duration="155000" />
-      <workItem from="1472789987682" duration="740000" />
+      <workItem from="1472789987682" duration="2264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1265000" />
+    <option name="totallyTimeSpent" value="2789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="453" y="29" width="1008" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20632133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -234,7 +290,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -242,7 +301,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -274,17 +336,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-989">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="235">
+          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="194" column="66" selection-start-line="194" selection-start-column="66" selection-end-line="194" selection-end-column="66" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
