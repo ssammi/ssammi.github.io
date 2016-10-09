@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6c61fb-3925-4182-aa5f-8d2bf073d01d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/300lo.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/312.bdde2798e99662fe3447.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/367.70920535a993f811631c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/ace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/addthis_widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/app.plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/boost" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bw-loader-411.4.5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/bw-send-411.4.5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/font-awesome.min(1).css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/font.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.confirm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.countdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.easy-pie-chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.html5storage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/jquery.sparkline.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/layers.12ddbd8b0f3bc3f40310.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/menu.1d0464078c391d128d82.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/mode-java.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/mystyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/plugin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/problem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/saved_resource" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/saved_resource(1)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/saved_resource(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/search3.0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/select2.full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/select2.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/sh.70a42bd59f68e6caa20cf9f5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/share" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/shares.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/simplemde.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/simplemde.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/submissions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Find Minimum in Rotated Sorted Array_files/theme-xcode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/client-pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/small-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-leader-pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-leader-pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team-leader-pic3.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3dCloud.html" afterPath="$PROJECT_DIR$/3dCloud.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="0d6c61fb-3925-4182-aa5f-8d2bf073d01d" name="Default" comment="" />
     <ignored path="ssammi.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -83,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="345">
+              <caret line="134" column="28" selection-start-line="134" selection-start-column="28" selection-end-line="134" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -96,7 +39,7 @@
       <file leaf-file-name="ShowAngular.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="1395">
               <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
               <folding />
             </state>
@@ -122,7 +65,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="453" />
+    <option name="x" value="272" />
     <option name="y" value="29" />
     <option name="width" value="1008" />
     <option name="height" value="767" />
@@ -152,11 +95,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ssammi.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,6 +182,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0d6c61fb-3925-4182-aa5f-8d2bf073d01d" name="Default" comment="" />
@@ -241,18 +194,22 @@
       <updated>1472251810357</updated>
       <workItem from="1472251811978" duration="370000" />
       <workItem from="1472431180773" duration="155000" />
-      <workItem from="1472789987682" duration="2264000" />
+      <workItem from="1472789987682" duration="3045000" />
+      <workItem from="1472842848513" duration="133000" />
+      <workItem from="1473390574574" duration="461000" />
+      <workItem from="1473789188002" duration="597000" />
+      <workItem from="1476002875662" duration="889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2789000" />
+    <option name="totallyTimeSpent" value="5650000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="453" y="29" width="1008" height="767" extended-state="0" />
+    <frame x="272" y="29" width="1008" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20632133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20535715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -297,6 +254,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -312,44 +326,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap3/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap3/js/npm.js" />
     <entry file="file://$PROJECT_DIR$/js/angular.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-435">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="345">
+          <caret line="134" column="28" selection-start-line="134" selection-start-column="28" selection-end-line="134" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ShowAngular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
